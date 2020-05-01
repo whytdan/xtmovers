@@ -1246,3 +1246,11 @@ footer{
     padding: 45px 45px;  
   }
 }
+
+@media (max-width: 700px){
+
+  .low_nav_list a{
+    font-size: 14px;
+    max-width: 100px;
+  }
+}
